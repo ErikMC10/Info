@@ -7,3 +7,5 @@ https://recursospython.com/guias-y-manuales/os-shutil-archivos-carpetas/  // Cap
 http://decodigo.com/python-crear-archivos-de-texto    //Crear archivo desde la libreria Tkinder
 
 https://es.wikibooks.org/wiki/Python/Interfaz_gráfica_con_Tkinter/Métodos_del_cuadro_de_texto     //
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5861255/       // BioPython implementando QSAR
