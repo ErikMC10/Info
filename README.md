@@ -1,2 +1,2 @@
-# Edit
-Repositorio para subir cosas desde el servicio social.
+# Info
+Repositorio para subir cosas del TT desde el servicio social.
